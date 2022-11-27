@@ -12,7 +12,14 @@ https://developers.google.com/youtube/v3/docs
 
 https://console.cloud.google.com/apis/dashboard
 
-### 2. Upload to Device
+### 2. Set Config
+
+- API_KEY
+- CHANNEL_ID
+
+> 🛑 Don't share your API_KEY with anyone or publish it on the Web!
+
+### 3. Upload to Device
 
 Follow this guide here
 
