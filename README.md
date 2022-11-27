@@ -6,9 +6,14 @@ Product Link: https://www.adafruit.com/product/4812?gclid=Cj0KCQiAsoycBhC6ARIsAP
 
 ## How to
 
-Get API Key by following: 
+### 1. Get API Key by following: 
 
 https://developers.google.com/youtube/v3/docs
 
 https://console.cloud.google.com/apis/dashboard
 
+### 2. Upload to Device
+
+Follow this guide here
+
+https://learn.adafruit.com/adafruit-matrixportal-m4
